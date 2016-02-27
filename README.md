@@ -1,6 +1,6 @@
 FII Desktop
 ===========
 
-Esse projeto tem 2 objetivos pra mim. O primeiro é de uma forma simples acompanhar o
-desenvolvimento da minha carteira de FIIs. O segundo e apenas estudar [electron](http://electron.atom.io/), pois posso de uma forma simples criar
-aplicações desktop.
+This is project has two goals to me.
+* First is a the best method to learn [electron](http://electron.atom.io/), because is a simple way to creating desktop applications.
+* Second is simple way to follow my stock [FII](http://www.fundoimobiliario.com.br).
